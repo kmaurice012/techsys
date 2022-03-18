@@ -1019,16 +1019,59 @@ a:focus {
 /*********** Team CSS **********/
 /*******************************/
 
+
+
+.text-team17{
+    position: relative;
+    top: 60px;
+}
+.team-img1{
+    position: relative;
+    top: 100px;
+}
 .text-team1{
     position: relative;
-    top: 20px;
+    top: 120px;
+}
+.text-team2{
+    height: 145px;
 }
 
+.team-img5{
+    position: relative;
+    top: 100px;
+}
+.team-text5{
+    position: relative;
+    top: 110px;
+}
+
+.team-text7{
+    height: 145px;
+}
+
+.team-img9{
+    position: relative;
+    top: 170px;
+}
+.team-text9{
+    height: 200px;
+    position: relative;
+    top: 260px;
+}
+.team-text11{
+    height: 200px;
+}
+
+.team-img13{
+    height: 380px;
+}
 .team {
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
 }
+
 
 .team .team-item {
     position: relative;
@@ -1108,6 +1151,7 @@ a:focus {
 .team .team-social a:hover {
     color: #202C45;
 }
+
 
 
 /*******************************/
